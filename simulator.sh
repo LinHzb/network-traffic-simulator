@@ -19,8 +19,8 @@ function print_banner() {
   clear
   echo -e "${cyan}"
   echo "╔══════════════════════════════════════════╗"
-  echo "║    🚦 SIMULADOR DE TRÁFEGO DE REDE 🚀    ║"
-  echo "║              By: LineKaro                ║"
+  echo "║    🚦 SIMULADOR DE TRÁFEGO DE REDE 🚀     ║"
+  echo "║              By: LinHzb                  ║"
   echo "╚══════════════════════════════════════════╝"
   echo -e "${reset}"
 }
