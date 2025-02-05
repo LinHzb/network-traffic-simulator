@@ -27,7 +27,7 @@ Este projeto é um **Simulador de Tráfego de Rede** desenvolvido em **Bash**, i
 ### 1. Clonar o Repositório
 Clone o repositório em sua máquina e acesse o diretório do projeto:
 ```bash
-git clone link aqui
+git clone https://github.com/LinHzb/network-traffic-simulator
 cd simulador-trafego-bash
 ```
 
